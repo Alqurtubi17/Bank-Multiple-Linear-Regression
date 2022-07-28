@@ -1,4 +1,4 @@
-Bank BPD;Tahun;Roa;Risiko;Kredit Masalah Produktif;Total Kredit Produktif;Total Kredit;NPL Produktif;Total Aset;Diversifikasi;Beban Training;Beban SDM;Persentase Beban Training;LN Total Aset;GDP
+Bank_BPD;Tahun;Roa;Risiko;Kredit_Masalah_Produktif;Total Kredit_Produktif;Total_Kredit;NPL_Produktif;Total_Aset;Diversifikasi;Beban_Training;Beban_SDM;Persentase_Beban_Training;LN_Total_Aset;GDP
 Sulawesi.Selatan.dan.Sulawesi.Barat;2018;3.67;0.78;45657507948;3315582238093;15971679770192;1.38;20576423170440;77.62;4818109026;434007307623;1.11;30.6552;-0.01278195489
 Sulawesi.Selatan.dan.Sulawesi.Barat;2019;3.36;0.16;192916456606;3993982225607;18424050956824;4.83;23541662250195;78.26;6150024591;432727372659;1.42;30.7898;-0.06655974338
 Sulawesi.Selatan.dan.Sulawesi.Barat;2020;3.12;0.28;96475990095;4545728882592;19653526947618;2.12;24830410397906;79.15;7383405548;485262938979;1.52;30.8431;5.009646302
